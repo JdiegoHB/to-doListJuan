@@ -1,0 +1,8 @@
+.taskcard {
+  background-color: burlywood;
+  width: 15%;
+  border-radius: 50px;
+  padding: 10px;
+  display: inline-flex;
+  gap: 20px;
+}
